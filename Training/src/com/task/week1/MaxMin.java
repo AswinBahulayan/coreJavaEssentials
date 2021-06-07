@@ -1,4 +1,4 @@
-package com.task.day2;
+package com.task.week1;
 
 public class MaxMin {
 

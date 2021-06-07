@@ -1,4 +1,4 @@
-package com.task.day2;
+package com.task.week1;
 
 public class Vowels {
 	public static void main(String[] args) {
