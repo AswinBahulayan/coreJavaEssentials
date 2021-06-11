@@ -1,6 +1,10 @@
 package com.task.week1;
 
 public class Vowels {
+	
+	/*2.Find the number of vowels in a given string
+	Input1:”NewyorkE” 'e' or 'E' - it should be counted as 1 Output1:2 Hint:irrespective of case*/
+	
 	public static void main(String[] args) {
 		String word = "NeeeEtwoork";
 		int a = 0, e = 0, i = 0, o = 0, u = 0;

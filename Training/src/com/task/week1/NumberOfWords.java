@@ -1,7 +1,13 @@
 package com.task.week1;
 
 public class NumberOfWords {
+	
+	/*4.Find the number of words are of given length Input1:{“aa”,”b”,”cc”,”ddd”} Input2:2 Output1:2
 
+	Input1:{“aa”,”b”,”cc”,”ddd”} Input2:1 Output1:1
+
+	Input1:{“aa”,”b”,”cc”,”ddd”} Input2:3 Output1:1*/
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String[] a = { "kkk", "bk6", "cc", "ggg" };
